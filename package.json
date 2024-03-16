@@ -1,0 +1,33 @@
+{
+  "name": "ps99",
+  "version": "1.0.0",
+  "description": "API wrapper for the Pet Simulator 99 API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dalk21/ps99.git"
+  },
+  "keywords": [
+    "api",
+    "wrapper",
+    "big",
+    "games",
+    "pet",
+    "pet",
+    "simulator",
+    "ps99",
+    "pet",
+    "sim",
+    "99",
+    "99"
+  ],
+  "author": "Dalk21",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Dalk21/ps99/issues"
+  },
+  "homepage": "https://github.com/Dalk21/ps99#readme"
+}
